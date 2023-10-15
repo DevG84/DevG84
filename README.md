@@ -14,6 +14,7 @@ __Pasatiempos:__
 - ⚡ Debido a mi afición por los videojuegos rítmicos he comenzado a investigar sobre el desarrollo de videojuegos en Unity.
 - 🎵 Me encanta escuchar música independiente, música electronica y future funk.
 - ✨ Mis artistas favoritos son Two Door Cinema Club, Cuarteto de Nos y AURORA.
+<br>
 
 __Estaré trabajando en mejorar mis habilidades, gracias por leer y que tengas un buen día.__
 
