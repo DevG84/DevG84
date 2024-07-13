@@ -3,7 +3,7 @@
 Vivo en México y soy un estudiante de la Escuela Superior de Cómputo del Instituto Politécnico Nacional en Ciudad de México.<br><br>
 
 __Sobre mí:__
-- 🌱 Estoy aprendiendo C y Java principalmente, pero quiero ampliar ese conocimiento a C#, JavaScript, HTML y CSS.
+- 🌱 Estoy aprendiendo C, C++ y Java principalmente, pero quiero ampliar ese conocimiento a JavaScript, HTML y CSS.
 - 📚 Me encuentro estudiando la carrera de Ingeniería en Sistemas Computacionales.
 - 🛠 Soy Técnico en Informática, tengo conocimientos de Junior en __Java__ y __MySQL__ y soy principiante en _HTML_ y _CSS_.
 
@@ -11,9 +11,9 @@ __Sobre mí:__
 
 __Pasatiempos:__
 - 🎮 Me encantan los videojuegos, estoy interesado en desarrollar un juego rítmico.
-- ⚡ Debido a mi afición por los videojuegos rítmicos he comenzado a investigar sobre el desarrollo de videojuegos en Unity.
-- 🎵 Me encanta escuchar música independiente, música electronica y future funk.
-- ✨ Mis artistas favoritos son Two Door Cinema Club, Cuarteto de Nos y AURORA.
+- ⚡ Debido a mi afición por los videojuegos rítmicos he comenzado a investigar sobre el desarrollo de videojuegos en Godot.
+- 🎵 Me encanta escuchar música independiente, música electronica, future funk y electro swing.
+- ✨ Mis artistas favoritos son Two Door Cinema Club, Cuarteto de Nos, AURORA, Caravan Palace y otros.
 <br>
 
 __Estaré trabajando en mejorar mis habilidades, gracias por leer y que tengas un buen día.__  
