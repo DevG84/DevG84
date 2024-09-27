@@ -16,5 +16,5 @@ __Pasatiempos:__
 - ✨ Mis artistas favoritos son Two Door Cinema Club, Cuarteto de Nos, AURORA, Caravan Palace y otros.
 <br>
 
-__Estaré trabajando en mejorar mis habilidades. 
+__Estaré trabajando en mejorar mis habilidades.<br>
 Gracias por leer.__
