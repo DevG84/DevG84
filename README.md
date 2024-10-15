@@ -3,7 +3,7 @@
 Vivo en México y soy un estudiante de la Escuela Superior de Cómputo del Instituto Politécnico Nacional en Ciudad de México.<br><br>
 
 __Sobre mí:__
-- 🌱 Estoy aprendiendo C, C++ y Java principalmente, pero quiero ampliar ese conocimiento a JavaScript, HTML y CSS.
+- 🌱 Estoy aprendiendo C, C++ y Java SE principalmente, pero quiero enfocarme especialmente en Kotlin con Jetpack Compose.
 - 📚 Me encuentro estudiando la carrera de Ingeniería en Sistemas Computacionales.
 - 🛠 Soy Técnico en Informática, tengo conocimientos de Junior en __Java__ y __MySQL__.
 
