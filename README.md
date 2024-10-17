@@ -1,9 +1,9 @@
 ### ¡Hola! 👋 Soy Giovanni. 
 <img align="right" width=175px alt="Linterna" src="https://github.com/GiomineDev/GiomineDev/assets/127634901/3c6c29b6-6ac1-40e5-92a3-6c2aef675ecb" />
-Vivo en México y soy un estudiante de la Escuela Superior de Cómputo del Instituto Politécnico Nacional en Ciudad de México.<br><br>
+Soy un estudiante de la Escuela Superior de Cómputo del Instituto Politécnico Nacional en Ciudad de México.<br><br>
 
 __Sobre mí:__
-- 🌱 Estoy aprendiendo C, C++ y Java SE principalmente, pero quiero enfocarme en aprender Kotlin con Jetpack Compose.
+- 🌱 Sé programación estructurada en C++ y Java, pero quiero enfocarme en aprender Kotlin con Jetpack Compose para hacer interfaces gráficas.
 - 📚 Me encuentro estudiando la carrera de Ingeniería en Sistemas Computacionales.
 - 🛠 Soy Técnico en Informática, tengo conocimientos de Junior en __Java__ y __MySQL__.
 
