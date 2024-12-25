@@ -14,6 +14,5 @@ __Pasatiempos:__
 - ⚡ ¿Qué tal desarrollar algo en Godot? Lo averiguaré.
 - 🎵 Me encanta escuchar música electronica, future funk, electro swing y algunos géneros variados.
 - ✨ Estoy intentando aprender a diseñar elementos gráficos.
-<br>
 
 ___Estaré trabajando en mejorar mis habilidades, hasta pronto. :>___
