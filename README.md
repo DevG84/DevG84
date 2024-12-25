@@ -12,7 +12,7 @@ __Sobre mí:__
 
 __Pasatiempos:__
 - 🎮 Me encantan los videojuegos, estoy interesado en desarrollar un juego rítmico.
-- ⚡ ¿Qué tal desarrollar algo en Godot? Lo averiguaré.
+- ⚡ ¿Qué tal desarrollar algo en Godot? Lo intentaré.
 - 🎵 Me encanta escuchar música electronica, future funk, electro swing y algunos géneros variados.
 - ✨ Estoy intentando aprender a diseñar elementos gráficos.
 
