@@ -24,6 +24,3 @@ Sé programación estructurada en **C++** y **Java**, además de **MySQL**, pero
 
 <br clear="right" />
 
-<p align="center">
-  <img height="108" src="https://github-readme-stats.vercel.app/api?username=DevG84&locale=es&custom_title=Actividad&show_icons=true&hide_rank=true&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage&include_all_commits=true&card_width=430&border_radius=10&bg_color=0B1215&title_color=4FB0A5&icon_color=4FB0A5&text_color=C9D6D5&border_color=26534C" /><img height="108" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevG84&theme=github_dark&utcOffset=-6" /><img height="108" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevG84&theme=github_dark" />
-</p>
